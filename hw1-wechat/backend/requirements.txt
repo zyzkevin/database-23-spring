@@ -1,0 +1,6 @@
+simple-websocket
+flask
+flask_cors
+flask_socketio
+flask_jwt_extended
+sqlite3
